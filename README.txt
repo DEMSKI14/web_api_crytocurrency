@@ -1,0 +1,3 @@
+ეს პროექტი არის ვებ API მინი პროექტი, რომელიც იღებს კრიპტოვალუტის მონაცემებს CoinMarketCap API-დან. ის იღებს კრიპტოვალუტების უახლეს 100 ჩამონათვალს, ინახავს მონაცემებს JSON ფაილში, ბეჭდავს ინფორმაციას და აჩვენებს Windows-ის შეტყობინებას.
+
+This project is a web API mini project that retrieves cryptocurrency data from the CoinMarketCap API. It fetches the latest 100 list of cryptocurrencies, stores the data in a JSON file, prints the information, and displays a Windows notification. 
